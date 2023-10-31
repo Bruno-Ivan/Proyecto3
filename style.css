@@ -76,6 +76,13 @@ h3{
     color: #ffffff;
 }
 
+/* estilos.css */
+.whatsapp-link {
+    color: green;
+    font-size: 20px;
+    text-decoration: none; /* Esto quitará el subrayado */
+}
+
 p {
     margin-bottom: 30px;
     font-size: 18px;
